@@ -1,2 +1,1 @@
-# NECHTOOO
-NECHTOOOOOO
+#ЗДАРОУ
