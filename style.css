@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+}
+.navbar-brand{
+    font-size: 3.5vw !important;
+    font-weight: bold;
+}
+.carousel-item > img{
+    height: 100vh !important;
+    width: 100vw !important;
+}
+.carousel{
+    z-index: -1 !important;
+}
+.carousel-control-prev{
+    z-index: 100;
+}
+.arousel-control-prev-icon{
+    z-index: 100 !important;
+}
+.carousel-control-next{
+    z-index: 100 !important;
+}
